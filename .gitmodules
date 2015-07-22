@@ -4,3 +4,4 @@
 [submodule "parcom"]
 	path = parcom
 	url = https://github.com/standardml/parcom.git
+  ignore = dirty
